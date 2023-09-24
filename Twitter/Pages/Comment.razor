@@ -1,0 +1,18 @@
+@inject ICommentInterface commentService
+<div>
+    @foreach(var commentItem in comments){
+        <div>
+            <p>@commentItem.email</p>
+            <p>@commentItem.body</p>
+            <p>@commentItem.name</p>
+        </div>
+    }
+</div>
+
+@code{
+    private List<Twitter.Models.Comment> comments = new List<Twitter.Models.Comment>();
+
+    protected override async Task OnInitializedAsync (){
+        comments = await commentService.GetCommentsAsync(); 
+    }
+}

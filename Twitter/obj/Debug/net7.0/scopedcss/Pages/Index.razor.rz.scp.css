@@ -1,0 +1,35 @@
+.profile[b-e0am652ugx]{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-image: url(https://images.pexels.com/photos/17152072/pexels-photo-17152072/free-photo-of-high-angle-shot-of-big-ben.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load);
+    background-size: cover;
+}
+.avatar[b-e0am652ugx]{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: blue;
+}
+.comments[b-e0am652ugx]{
+    margin:auto 10%;
+    background: white;
+    color: black;
+    width: 75%;
+}
+.comment[b-e0am652ugx]{
+    border-bottom: 1px solid azure;
+    margin-left: 5%;
+    
+}
+.posts[b-e0am652ugx]{
+    border-radius:4px ;
+    background: white;;
+    color: black;
+    margin: auto 15%;
+
+}
+.post[b-e0am652ugx]{
+    margin: 2% 5%;
+    border-radius: 3px;
+}

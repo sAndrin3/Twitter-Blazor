@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "053fxWYmah6d2dsbmsWGfbwMBq9vHipmcSofVglU886nHpwvrBhCifQZI7w2liprRsOkw2+/qsHZRlW3CD6d7w==",
+  "dgSpecHash": "MALRvOPexfHaebQiGcoPkRn4+4hqYfyO4THQ+cTf+DiEs8sfghtS8Q5uPWqSbmDeb0EFS19vxLSu8OHcJ5H7zw==",
   "success": true,
   "projectFilePath": "/home/petrolhead/Documents/Jitu-Codes./C#dotnet/BlazorPost/Twitter/Twitter.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "/home/petrolhead/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/home/petrolhead/.nuget/packages/microsoft.jsinterop/7.0.10/microsoft.jsinterop.7.0.10.nupkg.sha512",
     "/home/petrolhead/.nuget/packages/microsoft.jsinterop.webassembly/7.0.10/microsoft.jsinterop.webassembly.7.0.10.nupkg.sha512",
+    "/home/petrolhead/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/home/petrolhead/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/home/petrolhead/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/home/petrolhead/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
